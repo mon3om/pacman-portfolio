@@ -62,6 +62,7 @@ function drawBubbles() {
 			}
 		}
 	}
+	console.log(BUBBLES_COUNTER);
 }
 
 function stopBlinkSuperBubbles() { 
